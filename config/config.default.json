@@ -8,7 +8,7 @@
   "dev": {
     "browserSync": {
       "live": true,
-      "proxyURL": "wprig.test:8888",
+      "proxyURL": "basethemev2.test",
       "bypassPort": "8181",
       "https": false
     },
@@ -41,7 +41,7 @@
       "screenshot.png",
       "assets/css/vendor/**/*.css",
       "assets/js/vendor/**/*.js",
-      "acf-json"
+      "acf-json/*"
     ]
   }
 }
