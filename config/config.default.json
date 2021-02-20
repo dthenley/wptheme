@@ -1,9 +1,9 @@
 {
   "theme": {
-    "slug": "wp-rig",
-    "name": "WP Rig",
+    "slug": "site-theme",
+    "name": "Site Theme",
     "author": "The WP Rig Contributors",
-    "PHPNamespace": "WP_Rig\\WP_Rig"
+    "PHPNamespace": "Client\\Site_name"
   },
   "dev": {
     "browserSync": {
